@@ -17,5 +17,7 @@ public class Scan {
     }
 
 }
+// using console for read input through user
+
 
 
