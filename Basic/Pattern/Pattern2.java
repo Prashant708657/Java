@@ -16,7 +16,7 @@ public class Pattern2 {
           }
           System.out.println();
       }
-        System.out.println();
+      System.out.println();
        // this is for next line
       // Decreasing Pattern
 
